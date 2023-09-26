@@ -52,10 +52,10 @@ This is a website for space travel enthusiasts. the data is fetched from accurat
 
 ### Key Features <a name="key-features"></a>
 
--  Allow space travellers to book for rocket 📚
--  Show the status of booked travel 📚✈️
+-  Allow space travellers to book for rocket ✒️
+-  Show the status of booked travel ⏳
 -  Booker profile 👤  
--  Available mission page 📄
+-  Available mission page 🛒
 -  Rockets section displays a list of all available SpaceX rockets 🚀
 
 
